@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenoy01" alt="xenoy01" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and Machine learning**
+- 🌱 I’m currently working as a **Tester** and trynig to be a **Developer**
 
 - 📫 How to reach me **adarshkhatei2017@gmail.com**
 
